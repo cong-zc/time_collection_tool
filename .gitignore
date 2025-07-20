@@ -20,6 +20,14 @@
 *.mod
 *.smod
 
+# 打包文件
+build/
+dist/
+.venv/
+scripts/__pycache__/
+scripts/dist/
+scripts/build/
+
 # Compiled Static libraries
 *.lai
 *.la
